@@ -1,0 +1,16 @@
+{
+  "name": "Android Studio",
+  "version": "4.2.1",
+  "buildNumber": "202.7660.26.42.7351085",
+  "productCode": "AI",
+  "dataDirectoryName": "AndroidStudio4.2",
+  "svgIconPath": "bin/studio.svg",
+  "launch": [
+    {
+      "os": "Linux",
+      "launcherPath": "bin/studio.sh",
+      "vmOptionsFilePath": "bin/studio64.vmoptions",
+      "startupWmClass": "jetbrains-studio"
+    }
+  ]
+}
